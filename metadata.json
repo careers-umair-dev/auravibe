@@ -1,0 +1,6 @@
+{
+  "name": "AURAVIBE — Premium Wireless Audio & Electronics",
+  "description": "Discover AURAVIBE wireless headphones, studio earbuds, portable speakers, and modern charging accessories engineered for pure acoustic clarity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <rect width="40" height="40" rx="12" fill="url(#av_grad)" />
+  <rect x="10" y="16" width="3.5" height="8" rx="1.75" fill="#FFFFFF" />
+  <rect x="16" y="10" width="3.5" height="20" rx="1.75" fill="#FFFFFF" />
+  <rect x="22" y="13" width="3.5" height="14" rx="1.75" fill="#FFFFFF" />
+  <rect x="28" y="17" width="3.5" height="6" rx="1.75" fill="#FFFFFF" />
+  <defs>
+    <linearGradient id="av_grad" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7138D4" />
+      <stop offset="1" stop-color="#4776DF" />
+    </linearGradient>
+  </defs>
+</svg>
